@@ -8,7 +8,8 @@ depth has been indicated by color of circle.
 part-2 is bonus part.
 Topography and street map layers are used.
 tectonic plates boundary is indicated with red line.
-<a href = "https://github.com/muhkashiff/leaflet-challenge/blob/main/Leaflet-part-2/Images/2-BasicMap.png">
+<img src= "https://github.com/muhkashiff/leaflet-challenge/blob/main/Leaflet-part-2/Images/2-BasicMap.png"
+  alt="Tectonic plates map">
 ## References:
 Below reference were used as hints to get switch and case state help.<br>
 legend creation code adjusted using help from stackexchange.<br>
