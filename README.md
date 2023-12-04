@@ -13,6 +13,8 @@ tectonic plates boundary is indicated with red line.
 Below reference were used as hints to get switch and case state help.<br>
 legend creation code adjusted using help from stackexchange.<br>
 part -2 group layer hint obtained from reference 3.<br>
+<ol>
 <li>https://github.com/randiesinclair/Leaflet-Challenge/blob/main/Leaflet-challenge/js/logic2.js</li>
 <li>https://gis.stackexchange.com/questions/331314/leaflet-geojson-map-legend</li>
 <li>https://github.com/juliabrunett/leaflet-challenge/blob/main/Leaflet-Step-2/static/js/logic.js</li>
+</ol>
